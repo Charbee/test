@@ -5,3 +5,254 @@ Description: краткое-описание-темы
 Author: test
 Author URI: http://localhost/test/
 */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: all.6s ease;
+    -ms-transition: all.6s ease;
+    -o-transition: all.6s ease;
+    -moz-transition: all.6s ease;
+    -webkit-transition: all.6s ease;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: none;
+    transition: all.6s ease;
+    -ms-transition: all.6s ease;
+    -o-transition: all.6s ease;
+    -moz-transition: all.6s ease;
+    -webkit-transition: all.6s ease;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+    transition: all.3s ease-out;
+    -ms-transition: all.3s ease-out;
+    -o-transition: all.3s ease-out;
+    -moz-transition: all.3s ease-out;
+    -webkit-transition: all.3s ease-out;
+}
+
+div {
+    display: block;
+}
+
+.nav-content {
+    float: left;
+    background-color: #00010f;
+    width: 100%;
+    height: auto;
+    padding: 4px;
+    border-bottom: 2px solid #ffffff;
+}
+
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.page-content {
+    flex: 1 0 auto;
+}
+
+.footer-content {
+    flex: 0 0 auto;
+    float: left;
+    background-color: #00010f;
+    width: 100%;
+    height: auto;
+    border-top: 2px solid #ffffff;
+}
+
+a.logo>img {
+    width: auto;
+    height: auto;
+    margin: 5px;
+}
+
+div.nav-logo {
+    float: left;
+    width: 25%;
+}
+
+.nav-menu {
+    display: inline;
+}
+
+.nav-menu>a {
+    color: #ffffff;
+    font-size: 1.5em;
+    margin-left: 3%;
+}
+
+.nav-menu>a:hover {
+    border-bottom: #ffffff;
+}
+
+.fixed {
+    position: fixed;
+    margin-top: 0px;
+}
+
+div.footer-logo {
+    float: right;
+    width: auto;
+}
+
+.flex-container {
+    list-style: none;
+    
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.row { 
+    -webkit-flex-direction: row; 
+    flex-direction: row;
+    width: 100%;
+}
+
+.banner-img {
+    width: 100%;
+    height: 725px;
+    text-align: left;
+    background-image: url(images/ttt18-banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.banner-text {
+    text-align: left;
+    width: 50%;
+    height: 50%;
+    margin: 300px 0 0 200px;
+}
+
+h1 {
+    font-size: 4em;
+    margin-bottom: 1.5rem;
+}
+
+.flex-item-step {
+    background-color: #00010f;
+    width: 50%;
+    height: auto;
+}
+
+.step1-img {
+    background-image: url(images/step1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.step2-img {
+    background-image: url(images/step2.jpg);
+    height: 725px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.step3-img {
+    background-image: url(images/step3.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.step4-img {
+    background-image: url(images/step4.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.step5-img {
+    background-image: url(images/step5.jpg);
+    height: 725px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.paragraph-step1, .paragraph-step3, .paragraph-step5 {
+    float: right;
+    width: 60%;
+}
+
+.paragraph-step2, .paragraph-step4 {
+    float: left;
+    width: 60%;
+}
+
+h2 {
+    font-size: 3em;
+    margin-bottom: 1.5rem;
+}
+
+p {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;    
+}
+
+.paragraph-step1 {
+    padding: 4em 3em 4em 0;
+}
+
+.paragraph-step2 {
+    padding: 1em 0 1em 3em;
+    width: 70%;
+}
+
+.wysiwyg>ul li {
+    display: block;
+    padding: .1em .6em .1em 0;
+    position: relative;
+    color: inherit;
+    line-height: 1.3em;
+}
+
+.wysiwyg>ul {
+    margin-bottom: .9rem; 
+}
+
+.paragraph-step3 {
+    padding: 6em 3em 1em 0;
+}
+
+.paragraph-step4 {
+    padding: 6em 0 1em 3em;
+}
+
+.paragraph-step5 {
+    padding: 10em 3em 4em 0;
+}
