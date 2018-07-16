@@ -2,18 +2,16 @@
 
 <div class="page-wrapper">
         <div class="page-content">
-                <div class="flex-container banner">
-                        <div class="banner-img">
-                                <div class="banner-text">
-                                        <aticle>
-                                                <h1>BUILDING THE NEXT GENERATION OF SPEAKER SUPERSTARS</h1> <!-- Primary text on banner -->
-                                                <p>Talk The Talk 2018 main program is all about finding the new generation of speaker talent, coaching them with the help of today’s master performers, weaving them into a community and giving them the opportunity to shine on stages all over the world.</p>
-                                        </article>
-                                </div>
+                <div class="flex-container row banner-img">
+                        <div class="banner-text">
+                                <aticle>
+                                        <h1>BUILDING THE NEXT GENERATION OF SPEAKER SUPERSTARS</h1> <!-- Primary text on banner -->
+                                        <p>Talk The Talk 2018 main program is all about finding the new generation of speaker talent, coaching them with the help of today’s master performers, weaving them into a community and giving them the opportunity to shine on stages all over the world.</p>
+                                </article>
                         </div>                        
                 </div>
                 
-                <div class="flex-container step1">
+                <div class="flex-container row">
                         <div class="flex-item-step">
                                 <div class="paragraph-step1">
                                         <article>
@@ -25,14 +23,14 @@
                                                 <p>Only then will we look at your performing ability</p>
                                                 <p>Note that we’re very strict on the video length. 1:00 is okay, 1:01 is too long. So make it short and sweet!</p>
                                                 <p>Before sending out the application, please mark the dates on your calendar and try to make sure you’ll be able to attend each of them.</p>
-                                                <p>We will inform all applicants on August 28.</p>    
+                                                <p>We will inform all applicants on August 28.</p>
                                         </article>
                                 </div>
                         </div>
                         <div class="flex-item-step step1-img"></div>
                 </div>
 
-                <div class="flex-container step2">
+                <div class="flex-container row">
                         <div class="flex-item-step step2-img"></div>
                         <div class="flex-item-step">
                                 <div class="paragraph-step2">
@@ -59,13 +57,13 @@
                                                 <li>12.11. 6-9 PM Final Event</li>
                                                 </ul>
                                                 <p>Location for the trainings TBA. Also, make sure you are able to attend Slush 2018 on 4-5.12.</p>
-                                                <a href=''><span>Meet our coaches</span></a> <!-- leads to coach profiles --> 
+                                                <a href=''><span>Meet our coaches</span></a> <!-- leads to coach profiles -->
                                         </article>
                                 </div>
                         </div>
                 </div>
 
-                <div class="flex-container step3">
+                <div class="flex-container row">
                         <div class="flex-item-step">
                                 <div class="paragraph-step3">
                                         <article>
@@ -78,7 +76,7 @@
                         <div class="flex-item-step  step3-img"></div>
                 </div>
 
-                <div class="flex-container step4">
+                <div class="flex-container row">
                         <div class="flex-item-step  step4-img"></div>
                         <div class="flex-item-step">
                                 <div class="paragraph-step4">
@@ -91,28 +89,26 @@
                         </div>
                 </div>
 
-                 <div class="flex-container step5">
+                 <div class="flex-container row">
                         <div class="flex-item-step">
                                 <div class="paragraph-step5">
                                         <artile>
                                                 <h2>STEP 5 – GATHER EXPERIENCE THROUGH COMMUNITY.</h2> <!-- Primary text -->
                                                 <p>These first four steps are only the prologue of your story – the real experience follows with all the speaking and performing possibilities enabled by the community. There’s always someone who needs an energetic host, a passionate storyteller or a motivational speaker for their event or project.</p>
                                                 <p>To maximize your future opportunities for getting stage time, we provide you with a platform through which these inquiries reach you – either directly or via us.</p>
-                                                <a href=''><span>Here you go</span></a> <!-- leads to talent profiles -->     
+                                                <a href=''><span>Here you go</span></a> <!-- leads to talent profiles -->
                                         </article>
                                 </div>
                         </div>
                         <div class="flex-item-step  step5-img"></div>
                 </div>
+        </div>
 
-                <div class="flex-container">
-                        <div class="footer-content">
-                                <div class="footer-logo">
-                                        <a href="" title="Talk The Talk" class="logo">
-                                                <img src="http://talkthetalk.slush.org/wp-content/uploads/sites/9/2017/08/ttt_logo_web-e1502091572995.png">
-                                        </a>
-                                </div>
-                        </div>
+        <div class="footer-content">
+                <div class="footer-logo">
+                        <a href="" title="Talk The Talk" class="logo">
+                                <img src="http://talkthetalk.slush.org/wp-content/uploads/sites/9/2017/08/ttt_logo_web-e1502091572995.png">
+                        </a>
                 </div>
         </div>
 </div>
