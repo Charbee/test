@@ -41,22 +41,22 @@
                                                 <p>Application accepted, and you’re ready to rock! Here are the training dates for the fall. Joining each of them is recommendable, though not problematic if you miss one or two.</p>
                                                 <p>Note: Some of these dates &amp; hours might still change. We will confirm them by mid-August.</p>
                                                 <ul>
-                                                <li>3.9. 6-8 PM Kickoff</li>
-                                                <li>4.9. 6-8 PM Star workshop: Storytelling</li>
-                                                <li>11.9. 6-8 PM Training 1</li>
-                                                <li>18.9. 6-8 PM Star workshop: Structure &amp; Rhetorics</li>
-                                                <li>25.9. 6-8 PM Training 2</li>
-                                                <li>2.10. 6-8 PM Star workshop: Emotion &amp; Contact</li>
-                                                <li>4.10. 6-8 PM Training 3</li>
-                                                <li>9.10. 6-8 PM Star workshop: Voice Techniques</li>
-                                                <li>11.10. 6-8 PM Training 4</li>
-                                                <li>16.10. 6-8 PM Star workshop: Finding Your Performing Style</li>
-                                                <li>18.10. 6-8 PM Training 5</li>
-                                                <li>23.10. 6-8 PM Star workshop: Improvisation</li>
-                                                <li>25.10. 6-8 PM Training 6</li>
-                                                <li>30.10. 6-8 PM Final Rehearsal 1</li>
-                                                <li>6.11. 6-8 PM Final Rehearsal 2</li>
-                                                <li>12.11. 6-9 PM Final Event</li>
+                                                        <li>3.9. 6-8 PM Kickoff</li>
+                                                        <li>4.9. 6-8 PM Star workshop: Storytelling</li>
+                                                        <li>11.9. 6-8 PM Training 1</li>
+                                                        <li>18.9. 6-8 PM Star workshop: Structure &amp; Rhetorics</li>
+                                                        <li>25.9. 6-8 PM Training 2</li>
+                                                        <li>2.10. 6-8 PM Star workshop: Emotion &amp; Contact</li>
+                                                        <li>4.10. 6-8 PM Training 3</li>
+                                                        <li>9.10. 6-8 PM Star workshop: Voice Techniques</li>
+                                                        <li>11.10. 6-8 PM Training 4</li>
+                                                        <li>16.10. 6-8 PM Star workshop: Finding Your Performing Style</li>
+                                                        <li>18.10. 6-8 PM Training 5</li>
+                                                        <li>23.10. 6-8 PM Star workshop: Improvisation</li>
+                                                        <li>25.10. 6-8 PM Training 6</li>
+                                                        <li>30.10. 6-8 PM Final Rehearsal 1</li>
+                                                        <li>6.11. 6-8 PM Final Rehearsal 2</li>
+                                                        <li>12.11. 6-9 PM Final Event</li>
                                                 </ul>
                                                 <p>Location for the trainings TBA. Also, make sure you are able to attend Slush 2018 on 4-5.12.</p>
                                                 <a href=''><span>Meet our coaches</span></a> <!-- leads to coach profiles --> 
