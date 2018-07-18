@@ -9,23 +9,3 @@
 	<?php wp_head(); ?>
     </head>
     <body>
-        <div class="nav-content">
-                <nav>
-                        <div class="nav-logo">
-                                <a href="" title="Talk The Talk" class="logo">
-                                        <img src="http://talkthetalk.slush.org/wp-content/uploads/sites/9/2017/08/ttt_logo_web-e1502091572995.png">
-                                </a>
-                        </div>
-                        <div class="nav-menu">
-                                <a href="" >Home</a>
-                                <a href="">About</a>
-                                <a href="">TTT 18</a>
-                                <a href="">Backstage</a>
-                                <a href="">Talents</a>
-                                <a href="">Coaches</a>
-                                <a href="">Partners</a>
-                                <a href="">Collaboration</a>
-                                <a href="">Contact</a>
-                        </div>
-                </nav>
-        </div>
